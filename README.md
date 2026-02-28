@@ -8,7 +8,10 @@ APIs/Frameworks: Spigot, Paper, BungeeCord/Velocity
 
 Tools: IntelliJ IDEA, Maven, Git, MySQL/MongoDB
 
-🚀 Featured Project: SkillsUnleashed, MinionsUnleashed, SkyBlockUnleashed(TBR)
+## 🛠️ Currently Working On...
+- [x] **SkillsUnleashed** (Mining, Foraging, Combat)
+- [x] **MinionsUnleased**
+- [ ] **SkyBlockUnleashed** (TBR)
 A comprehensive RPG system collection used for my portfolio on GitHub.
 
 
