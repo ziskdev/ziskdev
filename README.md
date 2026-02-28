@@ -20,3 +20,5 @@ A comprehensive RPG system collection used for my portfolio on GitHub.
 Discord: ollyog
 
 Portfolio: https://github.com/ziskdev
+
+https://dcbadge.limes.pink/api/shield/735842673340055635
