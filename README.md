@@ -21,4 +21,6 @@ Discord: ollyog
 
 Portfolio: https://github.com/ziskdev
 
-https://dcbadge.limes.pink/api/shield/735842673340055635
+<p align="center">
+<img src="https://dcbadge.limes.pink/api/shield/735842673340055635" />
+</p>
